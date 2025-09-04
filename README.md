@@ -29,4 +29,6 @@
 
 ![이미지테스트](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn.crowdpic.net%2Fdetail-thumb%2Fthumb_d_BD3BE18EA977E0FFA825EBC25942AFB6.jpg&type=a340)
 
+<img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn.crowdpic.net%2Fdetail-thumb%2Fthumb_d_BD3BE18EA977E0FFA825EBC25942AFB6.jpg&type=a340" width="50" height="50">
+
 > 인용문구
